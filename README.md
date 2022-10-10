@@ -1,6 +1,6 @@
 ### Olá eu sou a Brenda Reis,
 
-- 🔭 Hoje trabalho como educadora de uma faculdade. 
+- 🔭 Hoje trabalho como educadora de uma grande faculdade. 
 - 🌱 Estudando Python.
 - 📫 Contate-me no e-mail: dev.brendareis@gmail.com
 - 😄 Pronouns: ela/dela.
